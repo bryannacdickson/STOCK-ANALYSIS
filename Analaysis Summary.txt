@@ -1,0 +1,9 @@
+Analaysis Summary
+
+From our attached 2018 and 2017 png file, we can see that overall return on stocks decreased for almost all tickers in year 2018 compared to year 2017 with the exception "RUN".
+
+To infer about the cause of these changes, we would need to take a look at the time period and events pccuring at the time for a bigger picture and explination.
+
+In the year 2018, there were several financial events that could be the source of this decrease in stock returns including President Trump's trade war with China, interest rate increases from the Federal reserve and losses from 5 major tech companies which greatly affct the S&P.
+
+
